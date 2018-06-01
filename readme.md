@@ -1,6 +1,6 @@
 # Reload Button
 
-Set a variable in Qliksense to true/false using button.
+Set a variable in Qliksense to reload the application.
 
 ## Table of Contents
 * [Screenshot](#screenshot)
@@ -43,16 +43,12 @@ Set a variable in Qliksense to true/false using button.
 
 3.Variable
 
-- Usually you have to create the variable in your data load script.But in this reload extension you can create a variable by entering the text into the "variable Name" textbox.  
+- Usually you have to create the variable in your data load script.But in this reload extension you can create a variable by entering the text in "Success Message" textbox and also change the text in "Processing Message" textbox.  
 	
+![success_message](https://user-images.githubusercontent.com/18327523/40842879-40240e48-657d-11e8-8ae3-6b471bd4bdb3.png)
 
- ![variable](https://cloud.githubusercontent.com/assets/18327523/14352187/e02f9378-fcf0-11e5-8fe5-05962bcfecd6.png)
- 
-4.Variable values can be set to true or false
 	
-	If True or Checked - Color changes to Green
-
-	If False or UnChecked - Color changes to White
+![processing_message](https://user-images.githubusercontent.com/18327523/40842981-846a4cc0-657d-11e8-8efb-6933ba505e67.png)
  
 # Examples
  
