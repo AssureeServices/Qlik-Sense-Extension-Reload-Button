@@ -56,7 +56,7 @@ Set a variable in Qliksense to true/false using button.
  
 # Examples
  
-![examples](https://user-images.githubusercontent.com/18327523/40842687-af93468c-657c-11e8-9ff1-50afe0e02b25.png)
+![examples](https://user-images.githubusercontent.com/18327523/40842808-07c5585e-657d-11e8-80c0-66c7d0cbff72.png)
 	
 # Author
 
