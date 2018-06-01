@@ -1,6 +1,6 @@
-# Flip Switch
+# Reload Button
 
-Set a variable in Qliksense to true/false using checkbox.
+Set a variable in Qliksense to true/false using button.
 
 ## Table of Contents
 * [Screenshot](#screenshot)
@@ -13,11 +13,12 @@ Set a variable in Qliksense to true/false using checkbox.
 
 #Screenshot
 
-![checkbox on](https://cloud.githubusercontent.com/assets/18327523/14352157/c51508a2-fcf0-11e5-865d-58aad7e1165c.png)
+![reload](https://user-images.githubusercontent.com/18327523/40842332-918083ae-657b-11e8-85ae-da6cfc78edd9.png)
 
-![checkbox off](https://cloud.githubusercontent.com/assets/18327523/14352158/c51538f4-fcf0-11e5-942c-5ae4109ad9c8.png)
+![processing_symbol](https://user-images.githubusercontent.com/18327523/40842356-a16911dc-657b-11e8-86c6-2c4096638032.png)
 
-![properties](https://cloud.githubusercontent.com/assets/18327523/14352156/c511b170-fcf0-11e5-946b-0fc656ac7c77.png)
+![properties](https://user-images.githubusercontent.com/18327523/40842375-b013d6cc-657b-11e8-99b5-e727f66afb64.png)
+
 
 
 # Installation
