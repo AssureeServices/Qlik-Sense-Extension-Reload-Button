@@ -15,8 +15,6 @@ Set a variable in Qliksense to reload the application.
 
 ![reload](https://user-images.githubusercontent.com/18327523/40842332-918083ae-657b-11e8-85ae-da6cfc78edd9.png)
 
-![processing_symbol](https://user-images.githubusercontent.com/18327523/40842356-a16911dc-657b-11e8-86c6-2c4096638032.png)
-
 ![properties](https://user-images.githubusercontent.com/18327523/40842375-b013d6cc-657b-11e8-99b5-e727f66afb64.png)
 
 
@@ -52,7 +50,7 @@ Set a variable in Qliksense to reload the application.
  
 # Examples
  
-![examples](https://user-images.githubusercontent.com/18327523/40842808-07c5585e-657d-11e8-80c0-66c7d0cbff72.png)
+![processing_symbol](https://user-images.githubusercontent.com/18327523/40842356-a16911dc-657b-11e8-86c6-2c4096638032.png)
 	
 # Author
 
