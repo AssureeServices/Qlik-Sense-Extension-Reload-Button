@@ -25,7 +25,7 @@ Set a variable in Qliksense to true/false using button.
 
 1. Install the latest version of Qlik Sense Desktop in your machine (http://www.qlik.com/try-or-buy/download-qlik-sense).
 
-2. Download Flip-Switch-Extension and extract the zip file into the following location "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\"
+2. Download Reload-Extension and extract the zip file into the following location "C:\Users\%USERNAME%\Documents\Qlik\Sense\Extensions\"
 
 *See instructions 
 [How to import an extension on Qlik Sense Server]
@@ -39,11 +39,11 @@ Set a variable in Qliksense to true/false using button.
 
 	Customized text can be created by the user. For example
 
-![label text](https://cloud.githubusercontent.com/assets/18327523/14352186/e027f5c8-fcf0-11e5-9c7f-5390bc543c5a.png) 
+![variable](https://user-images.githubusercontent.com/18327523/40842473-01978836-657c-11e8-9735-e281cc981db3.png) 
 
 3.Variable
 
-- Usually you have to create the variable in your data load script.But in this Flip switch extension you can create a variable by entering the text into the "variable Name" textbox.  
+- Usually you have to create the variable in your data load script.But in this reload extension you can create a variable by entering the text into the "variable Name" textbox.  
 	
 
  ![variable](https://cloud.githubusercontent.com/assets/18327523/14352187/e02f9378-fcf0-11e5-8fe5-05962bcfecd6.png)
@@ -56,7 +56,7 @@ Set a variable in Qliksense to true/false using button.
  
 # Examples
  
-![examples](https://cloud.githubusercontent.com/assets/18327523/14352200/f35986c0-fcf0-11e5-93d2-7772e06c015e.png)
+![examples](https://user-images.githubusercontent.com/18327523/40842687-af93468c-657c-11e8-9ff1-50afe0e02b25.png)
 	
 # Author
 
