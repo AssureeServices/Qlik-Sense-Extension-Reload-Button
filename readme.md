@@ -56,6 +56,8 @@ Set a variable in Qliksense to reload the application.
 
 ![aes logo transperant - small](https://cloud.githubusercontent.com/assets/18327523/14427159/d6e64e9c-0010-11e6-9532-d4682e9ea0a0.png)
 
+Irfan Kaleel
+
 **Assure eServices Inc., **
 
 (http://github.com/Assureeservices)
