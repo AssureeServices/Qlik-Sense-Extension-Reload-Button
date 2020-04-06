@@ -62,3 +62,12 @@ Irfan Kaleel
 
 (http://github.com/Assureeservices)
 
+# Contributors
+
+![brid logo transperant - small](https://avatars2.githubusercontent.com/u/56698994?s=400&u=04efbd37cdbfcf6bca637968c7950d5f679beba4&v=4)
+
+Felipe Marinho
+
+**Brid Soluções**
+
+(https://www.bridsolucoes.com.br)

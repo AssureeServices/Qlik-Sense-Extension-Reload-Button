@@ -1,6 +1,128 @@
-.btn{
-    border-radius:5px; background-color: #355c7d;border: 1px solid transparent;color: #fff;padding: 1px 12px 3px 12px;text-align: center;text-decoration: none;font-weight:bold;display: inline-block;font-size: 14px;
+/*.btn{
+    border-radius:5px;border: 1px solid transparent;color: #fff;padding: 1px 12px 3px 12px;text-align: center;text-decoration: none;font-weight:bold;display: inline-block;font-size: 14px;
     cursor: pointer;float: left;height: 35px;min-width:80px;
 }
+*/
 
+.btn{
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
 
+.btn-primary{
+	color: #fff;
+	background-color: #007bff;
+	border-color: #007bff
+}
+
+.btn-secondary{
+	color: #fff;
+	background-color: #6c757d;
+	border-color: #6c757d;
+}
+
+.btn-success{
+	color: #fff;
+	background-color: #28a745;
+	border-color: #28a745;
+}
+
+.btn-danger{
+	color: #fff;
+	background-color: #dc3545;
+	border-color: #dc3545;
+}
+
+.btn-warning{
+	color: #212529;
+	background-color: #ffc107;
+	border-color: #ffc107;
+}
+
+.btn-info{
+	color: #fff;
+	background-color: #17a2b8;
+	border-color: #17a2b8;
+}
+
+.btn-light{
+	color: #212529;
+	background-color: #f8f9fa;
+	border-color: #f8f9fa;
+}
+
+.btn-dark{
+	color: #fff;
+	background-color: #343a40;
+	border-color: #343a40;
+}
+
+.top-left{
+	display: flex;
+    align-items: center;
+}
+
+.top-center{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-right{
+	display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.mid-left{
+	display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.mid-center{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.mid-right{
+	display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.bot-left{
+	display: flex;
+    align-items: flex-end;
+    height: 100%;
+}
+
+.bot-center{
+	display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 100%;
+}
+
+.bot-right{
+	display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    height: 100%;
+}
